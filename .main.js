@@ -4,6 +4,8 @@ SERVER.PATH_ROOT = '.web/';
 
 ConfigServerHttps.ABSOLUTE_PATH_APPLICATION_WEB = '.web/';
 
+SERVER.enable_mimeType['config'] = 'text/plain';
+
 //----------------------------------------------------------------------------------------------------;
 
 /*/
