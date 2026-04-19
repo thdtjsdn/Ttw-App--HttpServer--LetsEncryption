@@ -1,0 +1,2 @@
+http://localhost/.well-known0/acme-challenge/TyYmi6b8XewlAhquecQn7fzVuVf0xtO8RLkihqoVZqw
+http://localhost/.well-known0/acme-challenge/web.config
